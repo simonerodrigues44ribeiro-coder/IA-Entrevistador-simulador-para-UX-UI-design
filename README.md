@@ -12,3 +12,12 @@ Perguntas Técnicas (Sobre o Trabalho)
 ​"Para mim, a crítica é uma ferramenta de melhoria. No desenho manual, a gente aprende que o primeiro traço raramente é o final. Recebo o feedback dos usuários ou da equipe como um guia para refinar o produto até que ele atenda às necessidades do projeto."
 ​5. "Por que você decidiu migrar do papel para o UX/UI Design agora aos 20 anos?"
 ​"Porque percebi que meu talento para desenhar pode ter um impacto real na vida de milhares de pessoas através da tecnologia. Quero usar minha criatividade para resolver problemas do dia a dia e tornar a vida digital das pessoas mais fácil e bonita."
+
+🎓 Feedback do Avaliador IA (Simulador de Entrevista)
+Pontos de Destaque:
+Conexão com a Origem: A candidata foi muito feliz ao explicar que o desenho manual não é apenas um hobby, mas uma ferramenta de Wireframing (esboço) rápido. Isso demonstra maturidade profissional.
+Foco no Usuário: Na pergunta sobre o erro de clique, ela priorizou a usabilidade sobre a estética, o que é o coração do UX Design.
+Acessibilidade: Mencionar contraste e deficiência visual em aplicativos bancários mostra que ela tem uma visão inclusiva, algo muito valorizado em empresas como a CAIXA.
+Sugestões de Melhoria para a Candidata:
+Terminologia Técnica: Ela pode começar a usar termos como "Design System" ou "User-Centered Design" (Design centrado no usuário) para soar ainda mais técnica.
+Exemplos Práticos: Da próxima vez, ela pode citar um desenho específico que fez e como ele se transformaria em um ícone ou botão digital.
